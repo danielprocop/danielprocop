@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Daniel 👋
 
-<!--
-**danielprocop/danielprocop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm building real-world AI solutions — starting with intelligent agents that make life easier and work more efficient.
 
-Here are some ideas to get you started:
+🧠 I’m currently focused on:
+- Learning and experimenting with LangChain, LLMs, memory and tool-based agents
+- Developing **Quotix** – an AI assistant that helps generate smart home service quotes from text, images and context
+- Laying the foundation for a future AI-focused company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My focus is on building **practical, human-centered AI tools**.  
+I believe in applied intelligence, minimal design, and solving real problems with creativity and code.  
+Along the way, I share what I learn — to grow, connect, and inspire.
+
+---
+
+📚 This space documents my journey.  
+It’s where I build, test, and explore ideas — the first building blocks of something much bigger.
+
+> 🧩 *Build first. Polish later.*  
+> 🏗️ *One commit at a time.*
+
